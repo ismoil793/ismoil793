@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**ismoil793/ismoil793** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ### Hi there, I'm Ismoil Shokirov 👋
 
 - 🔭 I’m currently working for "AVTECH Distribution"
@@ -10,7 +5,6 @@
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2021 Goals: Contribute more code && Study MCS
 - ⚡ Fun fact: I love swimming 🏊
--->
 
 [website]: https://ismoil793.github.io/#services
 [youtube]: https://www.youtube.com/channel/UChV2Pcnn6kQDkeWlL5o7IVA
