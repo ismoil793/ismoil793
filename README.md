@@ -12,7 +12,10 @@
 - ⚡ Fun fact: I love swimming 🏊
 -->
 
-
+[website]: https://ismoil793.github.io/#services
+[youtube]: https://www.youtube.com/channel/UChV2Pcnn6kQDkeWlL5o7IVA
+[instagram]: https://www.instagram.com/ismoil.793
+[linkedin]: https://www.linkedin.com/in/ismoil-shokirov
 
 ### Connect with me:
 
@@ -40,7 +43,3 @@
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
 
 <br /> 
-[website]: https://ismoil793.github.io/#services
-[youtube]: https://www.youtube.com/channel/UChV2Pcnn6kQDkeWlL5o7IVA
-[instagram]: https://www.instagram.com/ismoil.793
-[linkedin]: https://www.linkedin.com/in/ismoil-shokirov
