@@ -1,9 +1,9 @@
 ### Hi there, I'm Ismoil Shokirov 👋
 
-- 🔭 I’m currently working for "AVTECH Distribution"
-- 🌱 I’m currently learning everything 🤣
+- 🔭 I’m currently working for "AVTECH Distributions"
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2021 Goals: Contribute more code && Study MCS
+- 🌱 I’m currently learning everything 🤣
 - ⚡ Fun fact: I love swimming 🏊
 
 [website]: https://ismoil793.github.io/#services
