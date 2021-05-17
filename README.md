@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning everything 🤣
 - ⚡ Fun fact: I love swimming 🏊
 
-[website]: https://ismoil793.github.io/#services
+[website]: https://shokirov.uz
 [youtube]: https://www.youtube.com/channel/UChV2Pcnn6kQDkeWlL5o7IVA
 [instagram]: https://www.instagram.com/ismoil.793
 [linkedin]: https://www.linkedin.com/in/ismoil-shokirov
