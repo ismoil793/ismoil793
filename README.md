@@ -11,15 +11,14 @@
 [instagram]: https://www.instagram.com/ismoil.793
 [linkedin]: https://www.linkedin.com/in/ismoil-shokirov
 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ismoil793)](https://github.com/anuraghazra/github-readme-stats)  
+
 ### Connect with me:
 
 [<img align="left" alt="ismoil793.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Ismoil | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Ismoil | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Ismoil | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ismoil793)](https://github.com/anuraghazra/github-readme-stats)  
 
 <br />
 
