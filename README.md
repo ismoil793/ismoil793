@@ -11,8 +11,6 @@
 [instagram]: https://www.instagram.com/ismoil.793
 [linkedin]: https://www.linkedin.com/in/ismoil-shokirov
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ismoil793)](https://github.com/anuraghazra/github-readme-stats)  
-
 ### Connect with me:
 
 [<img align="left" alt="ismoil793.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -42,5 +40,9 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br /> 
+<br /> 
+<br /> 
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ismoil793)](https://github.com/anuraghazra/github-readme-stats)  
 
 [![Ismoil's github stats](https://github-readme-stats.vercel.app/api?username=ismoil793&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
