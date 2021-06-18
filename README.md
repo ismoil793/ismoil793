@@ -18,6 +18,9 @@
 [<img align="left" alt="Ismoil | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Ismoil | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ismoil793)](https://github.com/anuraghazra/github-readme-stats)  
+
 <br />
 
 ### Languages and Tools:
@@ -41,5 +44,4 @@
 
 <br /> 
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ismoil793)](https://github.com/anuraghazra/github-readme-stats)  
 [![Ismoil's github stats](https://github-readme-stats.vercel.app/api?username=ismoil793&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
