@@ -49,7 +49,3 @@
   <a href="#">
     <img align="center" alt="Ismoil's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismoil793&layout=compact&langs_count=10&hide_border=true&show_icons=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=000000" />
   </a>
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ismoil793)](https://github.com/anuraghazra/github-readme-stats)  
-
-[![Ismoil's github stats](https://github-readme-stats.vercel.app/api?username=ismoil793&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
