@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working at "AVTECH Distributions"
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2021 Goals: Contribute more code && Study MSc in Computer Science
+- 🥅 2021 Goals: Contribute more code && Study MS in Computer Science
 - 🌱 I’m currently learning everything 🤣
 - ⚡ Fun fact: I love swimming 🏊
 
