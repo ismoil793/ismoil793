@@ -1,6 +1,6 @@
 ### Hi there, I'm Ismoil Shokirov 👋
 
-- 🔭 I’m currently working fpr "EPAM Systems" as a Senior Engineer
+- 🔭 I’m currently working for "EPAM Systems" as a Senior Engineer
 - 👯 I’m looking to collaborate with other developers
 <!-- - 🥅 2021 Goals: Contribute more code && Study MS in Computer Science -->
 - 🌱 I’m currently learning everything 🤣
