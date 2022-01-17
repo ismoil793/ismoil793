@@ -1,10 +1,9 @@
 ### Hi there, I'm Ismoil Shokirov 👋
 
-- 🔭 I’m currently working for "EPAM Systems" as a Senior Engineer
-- 👯 I’m looking to collaborate with other developers
-<!-- - 🥅 2021 Goals: Contribute more code && Study MS in Computer Science -->
-- 🌱 I’m currently learning everything 🤣
+- 🔭 I’m currently working at "EPAM Systems" as a Software Engineer
+- 👨‍🎓 Bachelor's degree in Computer Science
 - ⚡ Fun fact: I love swimming 🏊
+<!-- - 🥅 2021 Goals: Contribute more code && Study MS in Computer Science -->
 
 [website]: https://shokirov.uz
 [youtube]: https://www.youtube.com/channel/UChV2Pcnn6kQDkeWlL5o7IVA
