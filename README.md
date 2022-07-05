@@ -48,3 +48,6 @@
   <a href="#">
     <img align="center" alt="Ismoil's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismoil793&layout=compact&langs_count=10&hide_border=true&show_icons=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=000000" />
   </a>
+  
+  ![Metrics](https://metrics.lecoq.io/ismoil793?template=classic&base.repositories=0&base.metadata=0&stackoverflow=1&base.indepth=false&base.hireable=false&stackoverflow.user=12924484&stackoverflow.sections=answers-top&stackoverflow.limit=2&stackoverflow.lines=1&stackoverflow.lines.snippet=0&config.timezone=Asia%2FTashkent)
+
