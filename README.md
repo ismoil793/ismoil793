@@ -1,13 +1,13 @@
 ### Hi there, I'm Ismoil Shokirov 👋
 
 - 🔭 I’m currently working at "EPAM Systems" as a Software Engineer
-- 👨‍🎓 Bachelor's degree in Computer Science
+- 👨‍🎓 Bachelor's degree in Computer Science from INHA University
 - ⚡ Fun fact: I love swimming 🏊
-<!-- - 🥅 2021 Goals: Contribute more code && Study MS in Computer Science -->
+<!-- - 🥅 2023 Goals: Contribute more code -->
 
 [website]: https://shokirov.uz
+[blog]: https://blog.shokirov.uz
 [youtube]: https://www.youtube.com/channel/UChV2Pcnn6kQDkeWlL5o7IVA
-[instagram]: https://www.instagram.com/ismoil.793
 [linkedin]: https://www.linkedin.com/in/ismoil-shokirov
 
 ### Connect with me:
