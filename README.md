@@ -3,8 +3,8 @@
 - 💻 Full-Stack developer based in USA
 - 🔭 I’m currently studying at "MIU" for MS degree in CS
 - 👨‍🎓 Bachelor's degree in Computer Science from INHA University
-- 🔥 [Visit my blog][blog]
 - ⚡ Fun fact: I love swimming 🏊
+- 🔥 [Visit my blog][blog]
 <!-- - 🥅 2023 Goals: Contribute more code -->
 
 [website]: https://shokirov.uz
