@@ -44,8 +44,6 @@
 <code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 <code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
-<br /> 
-<br />  
 
   <a href="#">
     <img align="center" alt="Ismoil's Overall GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ismoil793&count_private=true&hide_border=true&show_icons=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=000000&hide=prs,issues,contribs" />
