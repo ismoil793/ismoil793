@@ -48,7 +48,7 @@
 
 
 
-| <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ismoil793&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Ismoil's github stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismoil793&layout=compact&theme=dracula&hide_border=true&hide=html,css,scss" /></a> |
+| <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ismoil793&show_icons=true&include_all_commits=true&theme=vue&hide_border=true" alt="Ismoil's github stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismoil793&layout=compact&theme=vue&hide_border=true&hide=html,css,scss" /></a> |
 | ------------- | ------------- |
 
 
