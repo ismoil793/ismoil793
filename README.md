@@ -42,7 +42,7 @@
 <br />  
 
   <a href="#">
-    <img align="center" alt="Ismoil's Overall GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ismoil793&count_private=true&hide_border=true&show_icons=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=000000" />
+    <img align="center" alt="Ismoil's Overall GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ismoil793&count_private=true&hide_border=true&show_icons=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=000000&hide=prs,issues,contribs" />
   </a>
 
   <a href="#">
