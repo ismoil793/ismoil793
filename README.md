@@ -1,5 +1,6 @@
 ### Hi there, I'm Ismoil Shokirov 👋
 
+- 💻 Full-Stack developer based in USA
 - 🔭 I’m currently studying at "MIU" for MS degree in CS
 - 👨‍🎓 Bachelor's degree in Computer Science from INHA University
 - ⚡ Fun fact: I love swimming 🏊
