@@ -9,14 +9,14 @@
 
 [website]: https://shokirov.uz
 [blog]: https://blog.shokirov.uz
-[youtube]: https://www.youtube.com/channel/UChV2Pcnn6kQDkeWlL5o7IVA
+[stack]: https://stackoverflow.com/users/12924484/ismoil-shokirov
 [linkedin]: https://www.linkedin.com/in/ismoil-shokirov
 
 ### Connect with me:
 
 [<img align="left" alt="ismoil793.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="ismoil793.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/text.svg" />][blog]
-[<img align="left" alt="Ismoil | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Ismoil | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stack]
 [<img align="left" alt="Ismoil | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
