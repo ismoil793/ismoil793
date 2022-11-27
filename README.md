@@ -50,17 +50,6 @@
 
 | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ismoil793&show_icons=true&include_all_commits=true&theme=vue&hide_border=true" alt="Ismoil's github stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismoil793&layout=compact&theme=vue&hide_border=true&hide=html,css,scss" /></a> |
 | ------------- | ------------- |
-
-
-
-
-  <a href="#">
-    <img align="center" alt="Ismoil's Overall GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ismoil793&count_private=true&hide_border=true&show_icons=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=000000&hide=prs,issues,contribs" />
-  </a>
-
-  <a href="#">
-    <img align="center" alt="Ismoil's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismoil793&layout=compact&langs_count=10&hide_border=true&show_icons=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=000000" />
-  </a>
   
 ![Metrics](https://metrics.lecoq.io/ismoil793?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&stackoverflow=1&base.indepth=false&base.hireable=false&stackoverflow.user=12924484&stackoverflow.sections=answers-top&stackoverflow.limit=2&stackoverflow.lines=1&stackoverflow.lines.snippet=0&config.timezone=Asia%2FTashkent)
 
