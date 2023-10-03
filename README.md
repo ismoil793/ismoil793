@@ -1,11 +1,11 @@
 ### Hi there, I'm Ismoil Shokirov 👋
 
-- 💻 Full-Stack developer based in USA
 - 🔭 I’m currently studying MS in CS at "MIU"
 - 👨‍🎓 Bachelor's degree in Computer Science from INHA University
-- ⚡ Fun fact: I love swimming 🏊
+- ⚡ Fun fact: I like swimming 🏊
 - 🔥 [Visit my blog][blog]
 <!-- - 🥅 2023 Goals: Contribute more code -->
+<!-- - 💻 Full-Stack developer based in USA -->
 
 [website]: https://shokirov.uz
 [blog]: https://blog.shokirov.uz
