@@ -1,5 +1,6 @@
 ### Hi there, I'm Ismoil Shokirov 👋
 
+- 👨‍💻 I’m a Software Engineer (JavaScript, TypeScript, ReactJS, NodeJS, NextJS)
 - 🔭 I’m currently studying MS in CS at "MIU"
 - 👨‍🎓 Bachelor's degree in Computer Science from INHA University
 - ⚡ Fun fact: I like swimming 🏊
