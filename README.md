@@ -1,7 +1,5 @@
 ### Hi there, I'm Ismoil Shokirov 👋
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=ismoil793&label=Profile%20views&color=0e75b6&style=flat" alt="ismoil793 views" /> </p>
-
 - 👨‍💻 I’m a Software Engineer (JavaScript, TypeScript, ReactJS, NodeJS, NextJS)
 - 👨‍🎓 I’m currently studying MS in CS at "MIU"
 - ⚡ Fun fact: I like swimming 🏊
@@ -61,3 +59,5 @@
 -->
 
 
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=ismoil793&label=Profile%20views&color=0e75b6&style=flat" alt="ismoil793 views" /> </p>
