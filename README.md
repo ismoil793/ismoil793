@@ -60,4 +60,4 @@
 
 
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=ismoil793&label=Profile%20views&color=0e75b6&style=flat" alt="ismoil793 views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ismoil793&label=Profile%20views&color=0e75b6&style=flat" alt="ismoil793 views" /> </p>
