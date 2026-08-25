@@ -1,5 +1,5 @@
 ### Hi there, I'm Ismoil Shokirov 👋
-sd asd asdas dsa dsa dasd sa sad
+Welcome to my GitHub profile! I'm passionate about building modern web applications and sharing what I learn.
 - 👨‍💻 I’m a Software Engineer (JavaScript, TypeScript, ReactJS, NodeJS, NextJS)
 - 👨‍🎓 I have done BS and MS in Computer Science at "INHA University" and "MIU"
 - ⚡ Fun fact: I like swimming 🏊
