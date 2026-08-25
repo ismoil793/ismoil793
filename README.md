@@ -1,4 +1,4 @@
-### Hi there, I'm Ismoil Shokirov 👋
+sad### Hi there, I'm Ismoil Shokirov 👋
 
 - 👨‍💻 I’m a Software Engineer (JavaScript, TypeScript, ReactJS, NodeJS, NextJS)
 - 👨‍🎓 I have done BS and MS in Computer Science at "INHA University" and "MIU"
